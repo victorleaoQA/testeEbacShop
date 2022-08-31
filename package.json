@@ -24,6 +24,7 @@
     "faker": "^5.5.3",
     "faker-br": "^0.4.1",
     "jenkins": "^1.0.1",
+    "node": "^16.17.0",
     "start-server-and-test": "^1.14.0"
   },
   "devDependencies": {
